@@ -1,6 +1,6 @@
 lala
 
-a=a + 10
+a=a / 30
 
 // Stefane to + 10 kane to * 20
 // Egw se mia diki mou ekdosi tha to kanw / 30

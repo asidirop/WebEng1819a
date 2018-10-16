@@ -3,7 +3,10 @@ lala
 <<<<<<< HEAD
 a=a / 30
 =======
+a=a * 20
+>>>>>>> 1c7efce7d445614d87dc110a2ae43b7168eec672
 
 // Stefane to + 10 kane to * 20
 // Egw se mia diki mou ekdosi tha to kanw / 30
 // gia na dw to conflict resolv pws to exoun kanei
+// Pes mou molis to kaneis

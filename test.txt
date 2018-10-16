@@ -5,3 +5,4 @@ a=a + 10
 // Stefane to + 10 kane to * 20
 // Egw se mia diki mou ekdosi tha to kanw / 30
 // gia na dw to conflict resolv pws to exoun kanei
+// Pes mou molis to kaneis
